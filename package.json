@@ -1,0 +1,14 @@
+{
+  "name": "node_js",
+  "version": "1.0.0",
+  "description": "divya",
+  "main": "append.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "divya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
